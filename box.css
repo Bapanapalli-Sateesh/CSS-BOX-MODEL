@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #273B47;
+    border: 5px solid whitesmoke;
+}
+
+div{
+    text-align: center;
+    background-color: #41DDE2;
+
+    margin: 100px;
+    border: 20px solid gray;
+    padding: 100px;
+
+}
+
+span{
+    font-size: 50px;
+    background-color: antiquewhite;
+}
